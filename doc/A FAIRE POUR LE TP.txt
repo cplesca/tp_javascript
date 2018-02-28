@@ -1,0 +1,12 @@
+1. L'énoncé du TP se trouve dans le tableau dans : 
+TableauV2\Marion Bastide\P88-A17-08jan\TP\TP-P88-A17-08-jan.pdf
+
+2. Les png des maquettes se trouvent dans : 
+TableauV2\Marion Bastide\P88-A17-08jan\TP\maquette
+
+3. Pour lundi, commencer à travailler dans Balsamiq sur les maquettes mobile et tablette :
+	3.1 Il faut ajouter tous les éléments qui se trouvent sur mes maquettes Desktop et les placer.
+	3.2 Je vous recommande de commencer par la version tablette.
+	3.3 Il faudra rendre les 3 maquettes tablette et les 3 maquettes Mobile (au total 6 maquettes 	de Balsamiq) mercredi matin.
+
+	
